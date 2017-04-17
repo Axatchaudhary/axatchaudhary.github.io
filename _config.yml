@@ -13,16 +13,16 @@ baseurl: '/axatchaudhary.github.io' #change it according to your repository name
 
 
 #Profile information
-name: Saumil Shah
+name: Axat Chaudhary
 tagline: Research Entusiast with a knack of ICT with Design
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hellosaumil@yahoo.com
-phone: +91 9662-4747-82
-website: hellosaumil.github.io
-linkedin: hellosaumil
-github: hellosaumil
+email: axat.chaudhary96@gmail.com
+phone: +91 9033-9349-39
+website: axatchaudhary.github.io
+linkedin: axat-chaudhary
+github: Axatchaudhary
 
 # Tracker
 analytics: UA-83979019-1
