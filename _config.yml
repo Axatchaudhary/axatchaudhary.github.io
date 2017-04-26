@@ -14,7 +14,7 @@ baseurl: '/axatchaudhary.github.io' #change it according to your repository name
 
 #Profile information
 name: Axat Chaudhary
-tagline: Research Entusiast with a knack of ICT with Design
+tagline: Python, Java programmer. Algorithm, Datastructure, Machine leanrning Enthusiast
 pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
